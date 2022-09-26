@@ -1,1 +1,1 @@
-# Elma-Aga-lar-ndaki-Yaprak-Hastal-klar-n-n-Belirlenmesi
+# plant-pathology-2020
